@@ -1,0 +1,4 @@
+[submodule "easy_bsp"]
+	path = easy_bsp
+	url = git@github.com:lyg09270/easy_bsp.git
+	branch = dev_esp
