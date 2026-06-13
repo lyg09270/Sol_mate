@@ -77,4 +77,5 @@ Desktop.ini
 *.suo       # Visual Studio Solution User Options
 *.sln.docstates # Visual Studio
 
-.vscode/* # Visual Studio Code settings and workspace files, if you want to ignore them. Adjust as needed.
+# Visual Studio Code settings and workspace files, if you want to ignore them. Adjust as needed.
+.vscode/* 
