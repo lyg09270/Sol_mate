@@ -11,6 +11,12 @@ void ezbsp_gpio_test_handler(void);
 void ezbsp_exti_test_init(void);
 void ezbsp_exti_test_handler(void);
 
+void ezbsp_i2c_test_init(void);
+void ezbsp_i2c_test_handler(void);
+
+void ezdev_als_test_init(void);
+void ezdev_als_test_handler(void);
+
 #ifdef __cplusplus
 }
 #endif
